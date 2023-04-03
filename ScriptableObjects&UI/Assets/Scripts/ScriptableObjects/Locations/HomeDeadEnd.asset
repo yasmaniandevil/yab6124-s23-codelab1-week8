@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5898cbc85e2018f4cbe3235ec91decfb, type: 3}
+  m_Name: HomeDeadEnd
+  m_EditorClassIdentifier: 
+  locationName: Dead End
+  locationDescription: Go Back
+  northLocation: {fileID: 11400000, guid: 655a645618478c848b2970a29dc8ef49, type: 2}
+  southLocation: {fileID: 0}
+  eastLocation: {fileID: 0}
+  westLocation: {fileID: 0}
